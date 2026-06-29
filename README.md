@@ -75,8 +75,9 @@ Harshana
 Github
 har5hana
 
-## demo
+## Demo
 
-
-![App Demo](Smart AI Travel Assistant.gif)
+<p align="center">
+  <img src="Smart AI Travel Assistant.gif" width="900">
+</p>
 
